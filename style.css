@@ -1,0 +1,30 @@
+body{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(20deg,#3d4141,#68a3f5,#83f3ed);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.personal-info{
+    border: 2px solid blue;
+    padding: 27px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border-radius: 35px;
+    background-color: transparent;
+    box-shadow: 0px 3px 15px rgba(242, 243, 245, 0.5);
+    background: linear-gradient(50deg,#b8f1f1,#85b0ec);
+    
+}
+h1{
+    border: 2px solid rgb(243, 241, 241);
+    border-radius: 25px;
+    background: linear-gradient(0deg,#d7e6e6,#83b5fc);
+    box-shadow: 0px 3px 15px rgba(17, 17, 17, 0.5);
+    margin: 25px;
+    padding: 15px;
+}
